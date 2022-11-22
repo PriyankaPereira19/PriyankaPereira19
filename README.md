@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-Priyanka here. I've completed my bachelor degree and in a pursuit of further studies. Currently completing my full stack web development internship. Eager to learn new technologies and looking for better opportunities.
+Priyanka here. I've completed my bachelor's degree and am in pursuit of further studies. Currently completing my full-stack web development internship. Eager to learn new technologies and looking for better opportunities.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/PriyankaPereira19/count.svg)
