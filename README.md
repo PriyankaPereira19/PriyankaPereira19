@@ -1,11 +1,11 @@
 ### Hi Developers 👋
 
-[![YouTube Badge] (https://img.shields.io/badge/YouTube-DeveloperFunnel-red)]
+[![YouTube Badge](https://img.shields.io/badge/)]
 [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)]
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)]
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)]
 
-Hello! Priyanka here. I've completed my bachelor degree and in a pursuit of further studies. Currently completing my full stack web development internship. Eager to learn new technologies and looking for better opportunities.
+Priyanka here. I've completed my bachelor degree and in a pursuit of further studies. Currently completing my full stack web development internship. Eager to learn new technologies and looking for better opportunities.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/PriyankaPereira19/count.svg)
