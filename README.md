@@ -2,16 +2,6 @@
 
 Priyanka here. I've completed my bachelor's degree and am in pursuit of further studies. Currently completing my full-stack web development internship. Eager to learn new technologies and looking for better opportunities.
 
-
-![Visitor Count](https://profile-counter.glitch.me/PriyankaPereira19/count.svg)
-
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PriyankaPereira19&column=7"/>
-  </a>
-</div>
-
 Languages and Tools: 
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
